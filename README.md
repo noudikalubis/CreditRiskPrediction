@@ -6,6 +6,7 @@ This project is a final task of ID/X Parter x Rakamin Academy - Data Scientist V
 ### Dataset
 
 The dataset we’re using can be found on Kaggle and it contains 466285 rows and 75 columns.
+Data source: https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014
 
 ### Define Target Variable
 Target Variable is the feature of a dataset about which we want to gain a deeper understanding and learn patterns between the dataset.
